@@ -1,0 +1,2 @@
+model_checkpoint_path: "U_net_barch1_1000.ckpt"
+all_model_checkpoint_paths: "U_net_barch1_1000.ckpt"
